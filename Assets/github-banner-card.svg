@@ -1,0 +1,10 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="banner">
+  <defs>
+    <clipPath id="roundedClip">
+      <rect x="1" y="1" width="1498" height="498" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1498" height="498" rx="24" ry="24" fill="none" stroke="#333333" stroke-width="2"/>
+  <image href="github-banner.jpg" x="0" y="0" width="1500" height="500" clip-path="url(#roundedClip)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
