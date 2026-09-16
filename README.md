@@ -1,1 +1,1 @@
-## A cucumber keeps the cat away
+A cucumber keeps the cat away
