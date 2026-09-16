@@ -2,5 +2,5 @@
 
 ![banner](Assets/github-banner-framed.png)
 
-> [!INFO]
+> [!NOTE]
 > I build for fun.
